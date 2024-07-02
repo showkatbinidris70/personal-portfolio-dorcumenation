@@ -50,21 +50,6 @@ body {
 }
 /* nav section end */
 
-h1 {
-  background-image: linear-gradient(45deg, #7c75f4, #76a9f8);
-  font-family: "Lato, sans-serif";
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  background-clip: text;
-  line-height: 1.1;
-  font-weight: 600;
-  font-size: 4.5rem;
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-}
-
 h2 {
   background-image: linear-gradient(45deg, #7c75f4, #76a9f8);
   font-family: "Lato, sans-serif";
@@ -73,7 +58,7 @@ h2 {
   background-clip: text;
   line-height: 1.1;
   font-weight: 600;
-  font-size: 3rem;
+  font-size: 2.5rem;
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -88,22 +73,7 @@ h3 {
   background-clip: text;
   line-height: 1.1;
   font-weight: 600;
-  font-size: 2rem;
-  overflow: hidden;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-}
-
-h4 {
-  background-image: linear-gradient(45deg, #7c75f4, #76a9f8);
-  font-family: "Lato, sans-serif";
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  background-clip: text;
-  line-height: 1.1;
-  font-weight: 600;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2;
